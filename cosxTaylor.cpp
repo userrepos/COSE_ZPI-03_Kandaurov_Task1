@@ -79,3 +79,4 @@ int cti(string str) {
     }
     return charToInt;
 }
+
